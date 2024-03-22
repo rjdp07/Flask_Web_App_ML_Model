@@ -1,0 +1,5 @@
+### For building
+docker build -t <ur_container_name> .
+
+### For running
+docker run -p 5000:5000 <ur_container_name>
